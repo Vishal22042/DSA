@@ -111,6 +111,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Search Insert Position](./35-search-insert-position) | <img src='https://img.shields.io/badge/Easy-brightgreen?style=flat-square' alt='Easy'> | [search-insert-position.java](./35-search-insert-position/search-insert-position.java) |
 | [Valid Sudoku](./36-valid-sudoku) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [valid-sudoku.java](./36-valid-sudoku/valid-sudoku.java) |
 | [Sudoku Solver](./37-sudoku-solver) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [sudoku-solver.java](./37-sudoku-solver/sudoku-solver.java) |
+| [Count and Say](./38-count-and-say) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [count-and-say.java](./38-count-and-say/count-and-say.java) |
 | [First Missing Positive](./41-first-missing-positive) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [first-missing-positive.java](./41-first-missing-positive/first-missing-positive.java) |
 | [Multiply Strings](./43-multiply-strings) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [multiply-strings.java](./43-multiply-strings/multiply-strings.java) |
 | [Wildcard Matching](./44-wildcard-matching) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [wildcard-matching.java](./44-wildcard-matching/wildcard-matching.java) |
