@@ -44,12 +44,18 @@ Welcome to my **LeetCode Solutions** repository! This workspace is dedicated to 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Vishal22042"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal22042&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;v=1" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Vishal22042"><img src="https://streak-stats.demolab.com/?user=Vishal22042&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-stats.vercel.app/api?username=Vishal22042&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal22042&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" /></a>
 </div>
 
 ### 📈 Activity & Contributions
 <div align="center">
-  <a href="https://github.com/Vishal22042"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal22042&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Activity Graph" width="100%" /></a>
+  <a href="https://github.com/Vishal22042"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal22042&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" /></a>
 </div>
 
 ---

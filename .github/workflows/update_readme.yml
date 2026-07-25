@@ -8,6 +8,9 @@ on:
     paths-ignore:
       - 'README.md'
       - '.github/**'
+  schedule:
+    - cron: '0 0 * * *'   # Runs every day at midnight UTC — refreshes stats widgets
+  workflow_dispatch:        # Allows manual trigger from GitHub Actions tab
 
 concurrency:
   group: update-readme-${{ github.ref }}
