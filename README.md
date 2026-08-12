@@ -115,6 +115,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Combination Sum](./39-combination-sum) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [combination-sum.java](./39-combination-sum/combination-sum.java) |
 | [Combination Sum II](./40-combination-sum-ii) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [combination-sum-ii.java](./40-combination-sum-ii/combination-sum-ii.java) |
 | [First Missing Positive](./41-first-missing-positive) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [first-missing-positive.java](./41-first-missing-positive/first-missing-positive.java) |
+| [Trapping Rain Water](./42-trapping-rain-water) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [trapping-rain-water.java](./42-trapping-rain-water/trapping-rain-water.java) |
 | [Multiply Strings](./43-multiply-strings) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [multiply-strings.java](./43-multiply-strings/multiply-strings.java) |
 | [Wildcard Matching](./44-wildcard-matching) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [wildcard-matching.java](./44-wildcard-matching/wildcard-matching.java) |
 | [Jump Game II](./45-jump-game-ii) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [jump-game-ii.java](./45-jump-game-ii/jump-game-ii.java) |
