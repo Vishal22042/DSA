@@ -119,6 +119,7 @@ Here is the comprehensive list of problems I have solved, organized automaticall
 | [Multiply Strings](./43-multiply-strings) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [multiply-strings.java](./43-multiply-strings/multiply-strings.java) |
 | [Wildcard Matching](./44-wildcard-matching) | <img src='https://img.shields.io/badge/Hard-red?style=flat-square' alt='Hard'> | [wildcard-matching.java](./44-wildcard-matching/wildcard-matching.java) |
 | [Jump Game II](./45-jump-game-ii) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [jump-game-ii.java](./45-jump-game-ii/jump-game-ii.java) |
+| [Permutations](./46-permutations) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | No Solution |
 | [Rotate Image](./48-rotate-image) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [rotate-image.java](./48-rotate-image/rotate-image.java) |
 | [Group Anagrams](./49-group-anagrams) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [group-anagrams.java](./49-group-anagrams/group-anagrams.java) |
 | [Pow(x, n)](./50-powx-n) | <img src='https://img.shields.io/badge/Medium-orange?style=flat-square' alt='Medium'> | [powx-n.java](./50-powx-n/powx-n.java) |
