@@ -21,7 +21,6 @@ class Solution {
             
             currentRow += goingDown ? 1 : -1;
         }
-
         StringBuilder result = new StringBuilder();
         for (StringBuilder row : rows) {
             result.append(row);
